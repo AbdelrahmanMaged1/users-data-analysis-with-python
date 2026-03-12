@@ -35,21 +35,22 @@ users-data-analysis-with-python/
 ├── Final_Project/
 │   ├── DataAnalysis_with_Python.ipynb
 │   ├── reading_users_data.py
-│   └── users.csv
-│
-├── Images/
-│   ├── Average Age by Gender.png
-│   ├── Correlation Matrix.png
-│   ├── Distribution of users Age.png
-│   ├── Height Distribution by Gender.png
-│   ├── Overall Averages- Height Vs Weight.png
-│   ├── Role Distribution by Gender.png
-│   ├── Top 10 cities with most users.png
-│   └── User count by gender.png
+│   ├── users.csv
+│   │
+│   └── Images/
+│       ├── Average Age by Gender.png
+│       ├── Correlation Matrix.png
+│       ├── Distribution of users Age.png
+│       ├── Height Distribution by Gender.png
+│       ├── Overall Averages- Height Vs Weight.png
+│       ├── Role Distribution by Gender.png
+│       ├── Top 10 cities with most users.png
+│       ├── User count by gender.png
+│       └── Screenshot 2026-03-12 163810.jpg
 │
 ├── requirements.txt
 └── README.md
-````
+```
 
 ---
 
@@ -133,39 +134,41 @@ The saved dataset used in the final analysis.
 
 ---
 
-## Key Visualizations
+# Key Visualizations
 
-### Distribution of Users Age
+Since the images are now inside `Final_Project/Images`, the paths must change.
 
-![Distribution of users Age](Images/Distribution%20of%20users%20Age.png)
+## Distribution of Users Age
 
-### Average Age by Gender
+![Distribution of users Age](Final_Project/Images/Distribution%20of%20users%20Age.png)
 
-![Average Age by Gender](Images/Average%20Age%20by%20Gender.png)
+## Average Age by Gender
 
-### User Count by Gender
+![Average Age by Gender](Final_Project/Images/Average%20Age%20by%20Gender.png)
 
-![User count by gender](Images/User%20count%20by%20gender.png)
+## User Count by Gender
 
-### Top 10 Cities with Most Users
+![User count by gender](Final_Project/Images/User%20count%20by%20gender.png)
 
-![Top 10 cities with most users](Images/Top%2010%20cities%20with%20most%20users.png)
+## Top 10 Cities with Most Users
 
-### Height Distribution by Gender
+![Top 10 cities with most users](Final_Project/Images/Top%2010%20cities%20with%20most%20users.png)
 
-![Height Distribution by Gender](Images/Height%20Distribution%20by%20Gender.png)
+## Height Distribution by Gender
 
-### Overall Averages: Height vs Weight
+![Height Distribution by Gender](Final_Project/Images/Height%20Distribution%20by%20Gender.png)
 
-![Overall Averages- Height Vs Weight](Images/Overall%20Averages-%20Height%20Vs%20Weight.png)
+## Overall Averages: Height vs Weight
 
-### Role Distribution by Gender
+![Overall Averages- Height Vs Weight](Final_Project/Images/Overall%20Averages-%20Height%20Vs%20Weight.png)
 
-![Role Distribution by Gender](Images/Role%20Distribution%20by%20Gender.png)
+## Role Distribution by Gender
 
-### Correlation Matrix
+![Role Distribution by Gender](Final_Project/Images/Role%20Distribution%20by%20Gender.png)
 
-![Correlation Matrix](Images/Correlation%20Matrix.png)
+## Correlation Matrix
+
+![Correlation Matrix](Final_Project/Images/Correlation%20Matrix.png)
 
 ---
 
